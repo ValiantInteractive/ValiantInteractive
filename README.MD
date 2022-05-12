@@ -8,6 +8,8 @@ ICT engineering student, software engineer and a game developer. Started my game
 - Favorite IDE: CLion and VSCode
 - Operating system: MacOS, Windows, Manjaro and Ubuntu
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantInteractive&hide=shaderlab,hlsl,glsl&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" width=420px height=280px align=right>
+
 ### Other skills:
 - C++
 - C#
@@ -19,5 +21,3 @@ ICT engineering student, software engineer and a game developer. Started my game
 - Git
 - Unix Environment
 - MacOS Environment
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantInteractive&hide=shaderlab,hlsl,glsl&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" width=420px height=280px align=right>
