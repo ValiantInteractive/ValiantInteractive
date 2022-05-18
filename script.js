@@ -1,6 +1,13 @@
 function setIcon() {
 
-    let icon;
+    var icon;
+    var link = document.querySelector("link[rel~='icon']");
+    
+    if (!link) {
+        link = document.createElement('link');
+        link.rel = 'icon';
+        document.getElementsByTagName('head')[0].appendChild(link);
+    }
 
     switch (navigator.userAgent) {
         case "Win":
@@ -20,5 +27,5 @@ function setIcon() {
             break;
     }
 
-    document.getElementsByName("image") = icon;
+    link.href = icon;
 }
