@@ -1,12 +1,11 @@
 function setIcon() {
-
-    var icon;
     var link = document.querySelector("link[rel~='icon']");
+    var icon = "images/favicon.icon";
     
     if (!link) {
-        link = document.createElement('link');
-        link.rel = 'icon';
-        document.getElementsByTagName('head')[0].appendChild(link);
+        link = document.createElement("link");
+        link.rel = "link";
+        document.getElementsByTagName("head")[0].appendChild(link);
     }
 
     switch (navigator.userAgent) {
@@ -23,7 +22,7 @@ function setIcon() {
             icon = "images/android-chrome-192x192.png";
             break;
         default:
-            icon = "favicon.ico";
+            icon = "images/favicon.ico";
             break;
     }
 
