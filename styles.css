@@ -11,16 +11,6 @@ body {
 }
 
 .content {
-    background: rgba(0, 0, 0, 0.3);
-    backdrop-filter: blur(3px);
-}
-
-img {
-    padding: 5%;
-    width: 80%;
-}
-
-p {
     padding: auto;
     font-style: italic;
     color: aliceblue;
