@@ -2,9 +2,9 @@
 
 body {
     margin-top: 10%;
+    padding: 5%;
     background-color: black;
     background-repeat: no-repeat;
-    display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Roboto Mono', monospace;
@@ -13,5 +13,9 @@ body {
 .content {
     padding: auto;
     font-style: italic;
+    color: aliceblue;
+}
+
+p {
     color: aliceblue;
 }
