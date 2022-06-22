@@ -1,6 +1,6 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ValiantInteractive&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ICT engineering student, software engineer and a game developer. Started my game dev journey with Flash and ActionScript. Now working mainly with C++ and Go.
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ValiantInteractive&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me:
 
