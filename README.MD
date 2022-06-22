@@ -4,12 +4,12 @@ ICT engineering student, software engineer and a game developer. Started my game
 
 ### About me:
 
-- Favorite language: Go and C
-- Favorite IDE: CLion and VSCode
-- Operating system: MacOS, Windows, Manjaro and Ubuntu
+- Favorite languages: Go, C and JavaScript
+- Favorite IDEs: CLion and VSCode
+- Operating system: MacOS, Windows, Linux
 - Expertise: Desktop applications, Mobile applications, Games, Embedded
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantInteractive&theme=chartreuse-dark&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" width=420px height=280px align=right>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValiantInteractive&theme=chartreuse-dark&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats" alt="Top Langs" width=420px height=280px align=right>
 
 
 ### Other skills:
