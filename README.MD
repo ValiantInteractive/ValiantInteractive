@@ -5,7 +5,7 @@ ICT engineering student, software engineer and a game developer. Started my game
 ### About me:
 
 - Favorite language: Go and C
-- Favorite IDE: CLion and VSCode
+- Favorite IDE: CLion and Vim
 - Operating system: MacOS, Windows, Manjaro and Ubuntu
 - Expertise: Desktop applications, Mobile applications, Games, Embedded
 
