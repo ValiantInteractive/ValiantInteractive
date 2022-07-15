@@ -4,7 +4,7 @@ ICT engineering student, software engineer and a game developer. Started my game
 
 ### About me:
 
-- Favorite languages: Go, C and JavaScript
+- Favorite languages: Go and C
 - Favorite IDEs: CLion and VSCode
 - Operating system: MacOS, Windows, Linux
 - Expertise: Desktop applications, Mobile applications, Games, Embedded
@@ -15,13 +15,14 @@ ICT engineering student, software engineer and a game developer. Started my game
 ### Other skills:
 - C++
 - C#
-- .NET
-- Golang
+- .NET Framework
+- Go
 - Kotlin
+- Java
 - JavaScript
 - SQL Databases
 - x86 Assembly
 - Git
-- Unix Environment
+- Linux Environment
 - MacOS Environment
 - Azure DevOps
