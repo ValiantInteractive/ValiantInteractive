@@ -1,11 +1,10 @@
-ICT engineering student, software engineer and a game developer. Started my game dev journey with Flash and ActionScript. Now working mainly with C++ and Go.
+ICT engineering student, software engineer and a game developer. Started my game dev journey with Flash and ActionScript. Now working mainly with C++ and C#.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ValiantInteractive&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### About me:
 
 - Favorite languages: Go and C
-- Favorite IDEs: CLion and VSCode
 - Operating system: MacOS, Windows, Linux
 - Expertise: Desktop applications, Mobile applications, Games, Embedded
 
@@ -23,6 +22,5 @@ ICT engineering student, software engineer and a game developer. Started my game
 - SQL Databases
 - x86 Assembly
 - Git
-- Linux Environment
-- MacOS Environment
 - Azure DevOps
+- Unix environment
